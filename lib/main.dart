@@ -22,6 +22,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
-git config --global user.name "demirhanferhat"
-git config --global user.email "ferhat.fettahoglu@gmail.com"
